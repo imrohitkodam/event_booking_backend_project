@@ -41,8 +41,4 @@ app.listen(8000,()=>{
     console.log("server is started!!!!!!");
 })
 
-// Testing code by rohit kodam for testing purpose
-// hello world
-// This is new line
-// This is new line
-// new code changes accept here
+// New code changes accept here by rohit kodam
